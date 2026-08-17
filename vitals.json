@@ -1,9 +1,9 @@
 {
   "signals_held": 0,
   "sources_read": 0,
-  "documents_assessed": 52188,
-  "alerts_out": 13900,
+  "documents_assessed": 52194,
+  "alerts_out": 13912,
   "watch": "24/7",
-  "updated_iso": "2026-08-17T07:30:00-0400",
-  "updated_human": "7:30 AM ET · 08/17/26"
+  "updated_iso": "2026-08-17T07:35:00-0400",
+  "updated_human": "7:35 AM ET · 08/17/26"
 }
